@@ -138,3 +138,4 @@ print("Bottom Movies, sorted alphabetically:")
 print("\n")
 for key, value in Bottom_Movies_Rating.items():
 	print("%s, rating: %i/5" % (key, value))
+	
